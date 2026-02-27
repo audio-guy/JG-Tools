@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <index version="1" name="JG Scripts">
-  <category name="JG Scripts">
+  <category name="Tools">
 
     <reapack name="JG_Color_Items_By_Position.lua" type="script" desc="JG Color Items By Position">
       <version name="1.0.0" author="Julius Gass">
