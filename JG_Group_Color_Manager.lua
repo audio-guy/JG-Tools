@@ -1,6 +1,6 @@
 -- @description Group Color Manager
 -- @author JG
--- @version 1.0
+-- @version 1.0.0
 -- @about
 --   Automatically colors tracks based on their active edit groups.
 --   Uses group ribbon colors and restores original colors when groups are bypassed.

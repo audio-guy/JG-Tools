@@ -1,6 +1,6 @@
 -- @description Transfer cuts, gaps and fades to other tracks
 -- @author JG
--- @version 1.0
+-- @version 1.0.0
 -- @about
 --   Matches the cuts and gaps of a reference track to other selected tracks.
 --   The track with the most selected items is automatically used as the reference.

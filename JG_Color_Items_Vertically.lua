@@ -1,6 +1,6 @@
 -- @description Color items vertically
 -- @author JG
--- @version 1.0
+-- @version 1.0.0
 -- @about Colors all selected items that are vertically aligned to a random color.
 
 function getRandomColor()

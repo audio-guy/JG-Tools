@@ -1,6 +1,6 @@
 -- @description Rename source files to item names
 -- @author JG
--- @version 1.0
+-- @version 1.0.0
 -- @about
 --   Renames the underlying source media files on your hard drive to match their current item names in REAPER.
 --   Requires the SWS Extension.

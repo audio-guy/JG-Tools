@@ -1,6 +1,6 @@
 -- @description Symmetric pan selected tracks (user input width)
 -- @author JG
--- @version 1.0
+-- @version 1.0.0
 -- @about
 --   Pans selected tracks symmetrically left and right based on user input width (0-100).
 

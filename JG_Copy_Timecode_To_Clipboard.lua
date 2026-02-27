@@ -1,6 +1,6 @@
 -- @description Copy timecode to clipboard
 -- @author JG
--- @version 1.0
+-- @version 1.0.0
 -- @about
 --   Copies the playhead (playback) or edit cursor (stopped) timecode to the clipboard.
 --   Requires the SWS Extension.

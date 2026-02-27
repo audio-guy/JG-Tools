@@ -1,6 +1,6 @@
 -- @description Color selected items by start time
 -- @author JG
--- @version 1.0
+-- @version 1.0.0
 -- @about
 --   Colors selected items based on their start position.
 --   Items starting at the same time (within a tolerance) get the same color.

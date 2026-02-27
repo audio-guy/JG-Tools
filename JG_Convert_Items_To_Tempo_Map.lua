@@ -1,6 +1,6 @@
 -- @description Convert items to tempo map
 -- @author JG
--- @version 1.0
+-- @version 1.0.0
 -- @about
 --   Creates a tempo map based on the distance between selected items.
 --   Includes user inputs for time signature and click basis (e.g., quarter notes, dotted eighths).

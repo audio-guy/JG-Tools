@@ -1,6 +1,6 @@
 -- @description Sort items to tracks by prefix and lane
 -- @author JG
--- @version 1.0
+-- @version 1.0.0
 -- @about
 --   Sorts selected items to tracks based on a 3-digit prefix in the take name.
 --   It also assigns them to specific track lanes based on a "T001", "T002", etc., suffix.

@@ -1,6 +1,6 @@
 -- @description Per-track loudness normalize
 -- @author JG
--- @version 1.0
+-- @version 1.0.0
 -- @about
 --   Groups selected items by track and analyzes them as a continuous stream.
 --   Applies the exact same item gain (D_VOL) to all items on that track 

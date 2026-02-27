@@ -1,6 +1,6 @@
 -- @description Set cursor to system time
 -- @author JG
--- @version 1.0
+-- @version 1.0.0
 -- @about
 --   Sets the timeline to timecode (HH:MM:SS:FF), sets the project start to 00:00:00, 
 --   and moves the edit cursor to the current system time.
