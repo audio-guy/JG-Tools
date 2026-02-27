@@ -1,72 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <index version="1" name="JG Scripts">
   <category name="Free Tools">
-
     <reapack name="JG_Color_Items_By_Position.lua" type="script" desc="JG Color Items By Position">
       <version name="1.0.0" author="Julius Gass">
         <source>https://raw.githubusercontent.com/audio-guy/JG-Free-Tools/main/JG_Color_Items_By_Position.lua</source>
       </version>
     </reapack>
-
     <reapack name="JG_Color_Items_Vertically.lua" type="script" desc="JG Color Items Vertically">
       <version name="1.0.0" author="Julius Gass">
         <source>https://raw.githubusercontent.com/audio-guy/JG-Free-Tools/main/JG_Color_Items_Vertically.lua</source>
       </version>
     </reapack>
-
     <reapack name="JG_Convert_Items_To_Tempo_Map.lua" type="script" desc="JG Convert Items To Tempo Map">
       <version name="1.0.0" author="Julius Gass">
         <source>https://raw.githubusercontent.com/audio-guy/JG-Free-Tools/main/JG_Convert_Items_To_Tempo_Map.lua</source>
       </version>
     </reapack>
-
     <reapack name="JG_Copy_Timecode_To_Clipboard.lua" type="script" desc="JG Copy Timecode To Clipboard">
       <version name="1.0.0" author="Julius Gass">
         <source>https://raw.githubusercontent.com/audio-guy/JG-Free-Tools/main/JG_Copy_Timecode_To_Clipboard.lua</source>
       </version>
     </reapack>
-
     <reapack name="JG_Group_Color_Manager.lua" type="script" desc="JG Group Color Manager">
       <version name="1.0.0" author="Julius Gass">
         <source>https://raw.githubusercontent.com/audio-guy/JG-Free-Tools/main/JG_Group_Color_Manager.lua</source>
       </version>
     </reapack>
-
+    <reapack name="JG_Lua_Code_Runner.lua" type="script" desc="JG Lua Code Runner">
+      <version name="1.0.0" author="Julius Gass">
+        <source>https://raw.githubusercontent.com/audio-guy/JG-Free-Tools/main/JG_Lua_Code_Runner.lua</source>
+      </version>
+    </reapack>
     <reapack name="JG_Per_Track_Items_Loudness_Normalize.lua" type="script" desc="JG Per Track Items Loudness Normalize">
       <version name="1.0.0" author="Julius Gass">
         <source>https://raw.githubusercontent.com/audio-guy/JG-Free-Tools/main/JG_Per_Track_Items_Loudness_Normalize.lua</source>
       </version>
     </reapack>
-
     <reapack name="JG_Rename_Source_Files_To_Item_Names.lua" type="script" desc="JG Rename Source Files To Item Names">
       <version name="1.0.0" author="Julius Gass">
         <source>https://raw.githubusercontent.com/audio-guy/JG-Free-Tools/main/JG_Rename_Source_Files_To_Item_Names.lua</source>
       </version>
     </reapack>
-
     <reapack name="JG_Set_Cursor_To_System_Time.lua" type="script" desc="JG Set Cursor To System Time">
       <version name="1.0.0" author="Julius Gass">
         <source>https://raw.githubusercontent.com/audio-guy/JG-Free-Tools/main/JG_Set_Cursor_To_System_Time.lua</source>
       </version>
     </reapack>
-
     <reapack name="JG_Sort_Items_To_Tracks_By_Prefix.lua" type="script" desc="JG Sort Items To Tracks By Prefix">
       <version name="1.0.0" author="Julius Gass">
         <source>https://raw.githubusercontent.com/audio-guy/JG-Free-Tools/main/JG_Sort_Items_To_Tracks_By_Prefix.lua</source>
       </version>
     </reapack>
-
     <reapack name="JG_Symmetric_Pan_Selected_Tracks.lua" type="script" desc="JG Symmetric Pan Selected Tracks">
       <version name="1.0.0" author="Julius Gass">
         <source>https://raw.githubusercontent.com/audio-guy/JG-Free-Tools/main/JG_Symmetric_Pan_Selected_Tracks.lua</source>
       </version>
     </reapack>
-
     <reapack name="JG_Transfer_Item_Cuts_Gaps_And_Fades.lua" type="script" desc="JG Transfer Item Cuts Gaps And Fades">
       <version name="1.0.0" author="Julius Gass">
         <source>https://raw.githubusercontent.com/audio-guy/JG-Free-Tools/main/JG_Transfer_Item_Cuts_Gaps_And_Fades.lua</source>
       </version>
     </reapack>
-
   </category>
 </index>
