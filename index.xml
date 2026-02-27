@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<index version="1" name="JG Free Tools">
+  <category name="Scripts/JG Free Tools">
+  
+    <reapack name="JG Color Items Vertically" type="script" version="1.0.0" author="Julius Gass">
+      <description>Color selected items vertically across tracks.</description>
+      <source file="JG_Color Items Vertically.lua" type="github"/>
+    </reapack>
+
+    <reapack name="JG Color selected items according to their recording time" type="script" version="1.0.0" author="Julius Gass">
+      <description>Colors items according to their recording time.</description>
+      <source file="JG_Color selected items according to their recording time.lua" type="github"/>
+    </reapack>
+
+    <reapack name="JG Convert selected items to tempo map" type="script" version="1.0.0" author="Julius Gass">
+      <description>Convert selected items to the project tempo map.</description>
+      <source file="JG_Convert selected items to tempo map.lua" type="github"/>
+    </reapack>
+
+    <reapack name="JG Copy TC position of playhead to clipboard" type="script" version="1.0.0" author="Julius Gass">
+      <description>Copies the timecode position of the playhead to the clipboard.</description>
+      <source file="JG_Copy TC position of playhead to clipboard.lua" type="github"/>
+    </reapack>
+
+    <reapack name="JG Group Color Manager" type="script" version="1.0.0" author="Julius Gass">
+      <description>Manage colors of grouped items/tracks.</description>
+      <source file="JG_Group Color Manager.lua" type="github"/>
+    </reapack>
+
+    <reapack name="JG Pan selected tracks sym L-R (user input width)" type="script" version="1.0.0" author="Julius Gass">
+      <description>Pan selected tracks symmetrically left-right using user input width.</description>
+      <source file="JG_Pan selected tracks sym L-R (user input width).lua" type="github"/>
+    </reapack>
+
+    <reapack name="JG Quantize Project Markers to Project Samplerate" type="script" version="1.0.0" author="Julius Gass">
+      <description>Quantizes all project markers to the project sample rate.</description>
+      <source file="JG_Quantize Project Markers to Project Samplerate.lua" type="github"/>
+    </reapack>
+
+    <reapack name="JG Rename Source Files to Item" type="script" version="1.0.0" author="Julius Gass">
+      <description>Renames source files according to the item names.</description>
+      <source file="JG_Rename Source Files to Item.lua" type="github"/>
+    </reapack>
+
+    <reapack name="JG SYNC Take Marker" type="script" version="1.0.0" author="Julius Gass">
+      <description>Synchronizes take markers across selected items.</description>
+      <source file="JG_SYNC Take Marker.lua" type="github"/>
+    </reapack>
+
+    <reapack name="JG Set Cursor To System Time" type="script" version="1.0.0" author="Julius Gass">
+      <description>Sets the edit cursor to the current system time.</description>
+      <source file="JG_Set Cursor To System Time.lua" type="github"/>
+    </reapack>
+
+    <reapack name="JG Sort selected items to corresponding tracks and takes to lanes" type="script" version="1.0.0" author="Julius Gass">
+      <description>Sorts selected items to corresponding tracks and lanes according to takes.</description>
+      <source file="JG_Sort selected items to corresponding tracks and takes to lanes.lua" type="github"/>
+    </reapack>
+
+    <reapack name="JG Sync item splits of selected items (include fades)" type="script" version="1.0.0" author="Julius Gass">
+      <description>Synchronizes splits of selected items, including fades.</description>
+      <source file="JG_Sync item splits of selected items (include fades).lua" type="github"/>
+    </reapack>
+
+    <reapack name="JG item normalize (per track analysis)" type="script" version="1.0.0" author="Julius Gass">
+      <description>Normalizes items per track analysis.</description>
+      <source file="JG_item normalize (per track analysis).lua" type="github"/>
+    </reapack>
+
+  </category>
+</index>
