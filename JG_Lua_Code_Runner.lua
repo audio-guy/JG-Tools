@@ -1,6 +1,6 @@
 -- @description Lua Code Runner
 -- @author JG
--- @version 1.0
+-- @version 1.0.0
 -- @about
 --   Interactive Lua code runner for REAPER.
 --   Write or paste Lua code and execute it directly without saving or importing scripts.
