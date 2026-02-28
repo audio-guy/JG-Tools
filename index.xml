@@ -32,6 +32,12 @@
       </version>
     </reapack>
 
+    <reapack name="JG_Lua_Code_Runner.lua" type="script" desc="JG Lua Code Runner">
+      <version name="1.0.0" author="Julius Gass">
+        <source main="main">https://raw.githubusercontent.com/audio-guy/JG-Tools/main/JG_Lua_Code_Runner.lua</source>
+      </version>
+    </reapack>
+
     <reapack name="JG_Per_Track_Items_Loudness_Normalize.lua" type="script" desc="JG Per Track Items Loudness Normalize">
       <version name="1.0.0" author="Julius Gass">
         <source main="main">https://raw.githubusercontent.com/audio-guy/JG-Tools/main/JG_Per_Track_Items_Loudness_Normalize.lua</source>
